@@ -35,9 +35,9 @@
               </Translate>
             </h2>
             <div class="buttons">
-              <Button style="primary" href="course/hiligaynon-from-english">
-                <Translate key="index.start_hiligaynon_course">
-                  Start learning Hiligaynon
+              <Button style="primary" href="course/spanish-from-english">
+                <Translate key="index.start_spanish_course">
+                  Start learning Spanish
                 </Translate>
               </Button>
 

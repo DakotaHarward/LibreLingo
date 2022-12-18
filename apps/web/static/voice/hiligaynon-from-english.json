@@ -1,0 +1,236 @@
+[
+    {
+        "id": "0d0ea55b22bb96806232ac06966f9d5390fc7d82eee2529a55770cae539c7907",
+        "text": "Taga diin ka?",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "15a8ecc28caf29ca7677056337a86796d09a0f622aff0a427c2a5ff3a1fb3f2d",
+        "text": "CR (Comfort Room)",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "28c0d9ba5da34759f93b42292a5711fc6f60828476ef61811203942017ef8cf1",
+        "text": "Maayong hapon!",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "2f34e5b2332f9ac01dd19b98cbbade12bc07d176e12733e034d348c5872015a4",
+        "text": "Ano ang ____ sa Hiligaynon?",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "4a525dd53653238abf4980433c4c3685d7f6b4f4d0356bf9507f0f645620dd50",
+        "text": "hapon",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "4f547a430ba9991d7f658482ec6e836b7ee3fff1391911895d04d527d1338f37",
+        "text": "ako",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "6641f9e96c51ad1f46c24864de379e0b285c62621062c99e25565148d771db56",
+        "text": "ikaw (ka)",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "6da206ca1934e9bfb5c6ae3e8b917a655f1e88099d505561dfa6978a71319732",
+        "text": "pasensya",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "70e7fa746def03fc95f07e8160e147cefa2489ad49be2213f081310f1cf55e53",
+        "text": "Ano ang ngalan mo?",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "72ff6212101039fd732687aa51704a48ff48df99c7fd67aa314e8aeee6c59f31",
+        "text": "Naintyendihan mo bala?",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "7acc8392f887e6cf4dd0f59b6ec8888047a5dd6cf4e103b893dd60744204063f",
+        "text": "salamat",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "8e31a5de5162070c1948ff719f7b8fc8a397762e5d3618b8c7f11aba0f763f10",
+        "text": "Tsakto bala ang pag-intyendi ko?",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "9bd76844920d2e511e8884e04e07a3137ff48441c5cae8f9e460c726c10ae5d3",
+        "text": "gab-i",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "9d7b1e52d44ddfbc76902a4cdf9e86bc39498872d45e608d4b2d20f13b6d541b",
+        "text": "Ang ngalan ko si Jon.",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "9d8eb600fa4faf9083adc2a21f73aeeb63ab3dae5197ff83c8561f7afa9b86db",
+        "text": "ngalan",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "a8e720b7761228f078db2eed2e1b0492eb65d5450802cee128012d004e66f13c",
+        "text": "Ako si Jon.",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "b5ab31ff6d41917a8c775333099f78d000883fa0cdac2bcfebe5f6bcf04c1165",
+        "text": "Maayong aga, ako si Princess.",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "b61f2933442a2612a7074148957af54f76b9cb82f83ae6a5f34c4eb64046b4f1",
+        "text": "aga",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "c9390241336640c01a51d8b11b21008e43caf1a8d507e0e9a2665efe5344e806",
+        "text": "Maayong gab-i!",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "cef23d6e5c89151b64a5636f31ab77b3701429ceee176d4e0a97b8d1889ea768",
+        "text": "Ano ang buot silingon sang ____?",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "d2de11d9a17fd764d124a99f098b457e5b1ab029b9b319c25a5e3d47a75f7c44",
+        "text": "Liwat, palihog.",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "d2ed63b8902c601bbb33bb8cbc482e574e161333f394e7ee898f15ded640bdfe",
+        "text": "Maayong aga!",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "df3deacbfe0f8cd2b40ca15ccc3c9614810a136caa44252d5a4721557ac8e0d2",
+        "text": "Malipay ako nga nakilala ta ka.",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "e5b7bb2382e03870b552409f7a72d27de58e5cf49a952362a10dd6db6d87a632",
+        "text": "palihog",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "eafab91135a4a193cf51f48793d419aa7cb028154019f574634147f7003339e5",
+        "text": "Kamusta ka?",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "f3bd058a5294ec853fed089e16d06dc8304854eb9a9cff418c3e4d5260779a33",
+        "text": "Skus ko.",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    }
+]

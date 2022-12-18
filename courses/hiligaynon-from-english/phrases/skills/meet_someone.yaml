@@ -1,0 +1,148 @@
+Skill:
+  Name: Meet Someone
+  Id: hilig-meet-someone
+
+New words:
+  - Word: ako
+    Translation: I/me
+    Images:
+      - me1
+      - me2
+      - me3
+  - Word: ikaw (ka)
+    Translation: you
+    Images:
+      - you1
+      - you2
+      - you3
+  - Word: ngalan
+    Translation: name
+    Images:
+      - name1
+      - name2
+      - name3
+  - Word: aga
+    Translation: morning
+    Images:
+      - morning1
+      - morning2
+      - morning3
+  - Word: hapon
+    Translation: afternoon
+    Images:
+      - afternoon1
+      - afternoon2
+      - afternoon3
+  - Word: gab-i
+    Translation: evening/night
+    Images:
+      - moon1
+      - moon2
+      - moon3
+
+Phrases:
+  - Phrase: Kamusta ka?
+    Alternative versions:
+      - Kamusta ka na?
+    Translation: How are you?
+
+  - Phrase: Ako si Jon.
+    Translation: I am Jon.
+    Alternative translations:
+      - I'm Jon.
+
+  - Phrase: Ang ngalan ko si Jon.
+    Translation: My name is Jon.
+
+  - Phrase: Ano ang ngalan mo?
+    Translation: What is your name?
+
+  - Phrase: Taga diin ka?
+    Translation: Where are you from?
+
+  - Phrase: Malipay ako nga nakilala ta ka.
+    Translation: Pleased to meet you.
+    Alternative translations:
+      - I am pleased to meet you.
+      - I'm pleased to meet you.
+
+  - Phrase: Maayong aga!
+    Translation: Good morning!
+
+  - Phrase: Maayong hapon!
+    Translation: Good afternoon!
+
+  - Phrase: Maayong gab-i!
+    Translation: Good evening!
+
+  - Phrase: Maayong aga, ako si Princess.
+    Alternative versions:
+      - Maayong aga, ang ngalan ko si Princess.
+    Translation: Good morning, I am Princess.
+    Alternative translations:
+      - Good morning, my name is Princess.
+
+Mini-dictionary:
+  English:
+    - how: kamusta
+    - are: use focus marker to connect name (si)
+    - you:
+        - ikaw (ka)
+        - mo
+    - I:
+        - ako
+        - ko
+    - I/me:
+        - ako
+        - ko
+    - me:
+        - ako
+        - ko
+    - am: use focus marker to connect name (si)
+    - I'm: ako (then connect with focus marker)
+    - Jon: Jon (name)
+    - is: focus marker, not name (ang)
+    - name: ngalan
+    - my: ko
+    - what: ano
+    - your: mo or imo
+    - from: taga
+    - where: diin
+    - pleased: malipay ako
+    - to: use linker (nga)
+    - meet: nakilala
+    - good:
+        - maayo
+        - maayong
+    - morning: aga
+    - afternoon: hapon
+    - evening: gab-i
+    - Princess: Princess (name)
+
+  Hiligaynon:
+    - kamusta: how
+    - ka: you
+    - na: now
+    - ako: I/me
+    - si: focus marker, names only
+    - Jon: name
+    - ang: focus marker, not names
+    - ngalan: name
+    - ko:
+        - my/mine
+        - I/me (non-focus)
+    - ano: what
+    - mo:
+        - your
+        - you (non-focus)
+    - taga: from
+    - diin: where
+    - malipay: pleased
+    - nga: linker
+    - nakilala: meet
+    - ta: usually used as "ta ka" meaning to you
+    - maayong: good
+    - aga: morning
+    - hapon: afternoon
+    - gab-i: evening/night
+    - Princess: name

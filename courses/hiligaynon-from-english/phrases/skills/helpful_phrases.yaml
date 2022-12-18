@@ -1,0 +1,95 @@
+Skill:
+  Name: Helpful Phrases
+  Id: hilig-helpful-phrases
+
+New words:
+  - Word: CR (Comfort Room)
+    Translation: bathroom
+    Images:
+      - stomach1
+
+  - Word: palihog
+    Translation: please
+    Images:
+      - please1
+      - please2
+      - please3
+
+  - Word: pasensya
+    Translation: sorry
+    Images:
+      - sorry1
+      - sorry2
+      - sorry3
+
+  - Word: salamat
+    Translation: thank you
+    Images:
+      - thankyou1
+      - thankyou2
+      - thankyou3
+
+Phrases:
+  - Phrase: Tsakto bala ang pag-intyendi ko?
+    Translation: Is my understanding correct?
+    Alternative translation:
+      - Did I understand you correctly?
+
+  - Phrase: Naintyendihan mo bala?
+    Translation: Did you understand?
+
+  - Phrase: Skus ko.
+    Translation: Excuse me.
+
+  - Phrase: Ano ang buot silingon sang ____?
+    Translation: What does ____ mean?
+    Alternative translation:
+      - What is the meaning of ____?
+
+  - Phrase: Ano ang ____ sa Hiligaynon?
+    Translation: What is ____ in Hiligaynon?
+    Alternative translation:
+      - What is ____ called in Hiligaynon?
+
+  - Phrase: Liwat, palihog.
+    Translation: Repeat that please.
+    Alternative translation:
+      - Again please.
+
+Mini-dictionary:
+  English:
+    - did: no translation
+    - understanding: pag-intyendi
+    - correct: tsakto
+    - understand: naintyendihan
+    - excuse: skus
+    - does: connect with focus marker (ang)
+    - ____: word placeholder
+    - mean: buot silingon
+    - in: sa
+    - Hiligaynon: Hiligaynon
+    - repeat: liwat
+    - that: ina ('na)
+    - thank: salamat
+    - please: palihog
+
+  Hiligaynon:
+    - tsakto: correct
+    - bala: question marker
+    - pag-intyendi: understanding
+    - naintyendihan: understand
+    - skus: excuse
+    - buot: nice
+    - silingon: saying (when used with buot, this means meaning)
+    - sang:
+        - non-focus marker, not names
+        - of
+    - ____: word placeholder
+    - sa:
+        - location/receiver marker
+        - in
+    - Hiligaynon: Hiligaynon
+    - liwat:
+        - again
+        - repeat
+    - palihog: please

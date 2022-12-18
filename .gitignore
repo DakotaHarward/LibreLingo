@@ -11,6 +11,7 @@
 **/.idea/vcs.xml
 **/.idea/workspace.xml
 **/.vim
+**/.idea
 
 
 # Dependencies
@@ -74,5 +75,5 @@ localData/
 
 # Courses
 /apps/web/src/courses/*-*
-/courses/*-*
+#/courses/*-*
 
