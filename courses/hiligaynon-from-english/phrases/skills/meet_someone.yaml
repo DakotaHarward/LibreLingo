@@ -85,9 +85,10 @@ Phrases:
 Mini-dictionary:
   English:
     - how: kamusta
-    - are: use focus marker to connect name (si)
+    - are: use focus marker to connect, si (names) or ang (object)
     - you:
-        - ikaw (ka)
+        - ka
+        - ikaw
         - mo
     - I:
         - ako
@@ -108,7 +109,7 @@ Mini-dictionary:
     - your: mo or imo
     - from: taga
     - where: diin
-    - pleased: malipay ako
+    - pleased: malipay
     - to: use linker (nga)
     - meet: nakilala
     - good:
